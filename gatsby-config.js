@@ -8,14 +8,14 @@ module.exports = {
     title: `Bhaskar Bagchi`,
     // Description that goes under your name in main bio
     description: `Sr. Software Dev Engineer, AWS`,
-    // Optional: Twitter account handle
-    // author: `@rfitzio`,
+    // Optional: Instagram account handle
+    author: `fresh_out_of_lens`,
     // Optional: Github account URL
     github: `https://github.com/bhaskarbagchi`,
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/bhaskarbagchi/`,
     // Content of the About Me section
-    about: `I'm Bhaskar, a Sr. Software Engineer at Amazon Web Services in Seattle. I am from Prayagraj, India. I am currently working in AWS AI org where I build scalable training platform for training state of the art ASR and LLM models. Before this I have worked in Amazon Fulfilment space and helped launch a new AWS Service, Lookout for Equipment.`,
+    about: `I'm Bhaskar, a Sr. Software Engineer at Amazon Web Services in Seattle. I am from Prayagraj, India. I am currently working in AWS AI org where I build scalable training platform for training state of the art ASR and LLM models. Before this I have worked in Amazon Fulfilment space and helped launch a new AWS Service, Lookout for Equipment. Outside work, I like amature photographer.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     // projects: [
     //   {
