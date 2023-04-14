@@ -1,58 +1,62 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://fascinating-gumption-33d7b6.netlify.app/`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Bhaskar Bagchi',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Bhaskar Bagchi`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Sr. Software Dev Engineer, AWS`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    // author: `@rfitzio`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/bhaskarbagchi`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/bhaskarbagchi/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `I'm Bhaskar, a Sr. Software Engineer at Amazon Web Services in Seattle. I am from Prayagraj, India. I am currently working in AWS AI org where I build scalable training platform for training state of the art ASR and LLM models. Before this I have worked in Amazon Fulfilment space and helped launch a new AWS Service, Lookout for Equipment.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
-    projects: [
-      {
-        name: 'Devfolio',
-        description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'ChromeExtensionKit',
-        description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
-      },
-      {
-        name: 'Another Cool Project',
-        description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-    ],
+    // projects: [
+    //   {
+    //     name: 'Devfolio',
+    //     description:
+    //       'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
+    //     link: 'https://github.com/RyanFitzgerald/devfolio',
+    //   },
+    //   {
+    //     name: 'ChromeExtensionKit',
+    //     description:
+    //       'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
+    //     link: 'https://chromeextensionkit.com/?ref=devfolio',
+    //   },
+    //   {
+    //     name: 'Another Cool Project',
+    //     description:
+    //       'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
+    //     link: 'https://github.com/RyanFitzgerald/devfolio',
+    //   },
+    // ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Amazon Web Services',
+        description: 'Sr Software Dev Engineer (October 2021 - Present)',
+        // link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Amazon Web Services',
+        description: 'Software Dev Engineer (April 2018 - September 2021)',
+        // link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Amazon Fulfilment Technology',
+        description: 'Software Dev Engineer (July 2015 - March 2018)',
+        // link: 'https://github.com/RyanFitzgerald/devfolio',
+      },
+      {
+        name: 'Tinyowl',
+        description: 'Data Science Intern (May 2015 - July 2015)'
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -60,11 +64,11 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'Java, Python, C++',
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        description: 'DynamoDB, Aurora',
       },
       {
         name: 'Other',
