@@ -42,21 +42,22 @@ module.exports = {
       {
         name: 'Amazon Web Services',
         description: 'Sr Software Dev Engineer (October 2021 - Present)',
-        // link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://docs.aws.amazon.com/transcribe/latest/dg/what-is.html',
       },
       {
         name: 'Amazon Web Services',
         description: 'Software Dev Engineer (April 2018 - September 2021)',
-        // link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://docs.aws.amazon.com/lookout-for-equipment/latest/ug/what-is.html',
       },
       {
         name: 'Amazon Fulfilment Technology',
         description: 'Software Dev Engineer (July 2015 - March 2018)',
-        // link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://en.wikipedia.org/wiki/Amazon_Fresh',
       },
       {
         name: 'Tinyowl',
-        description: 'Data Science Intern (May 2015 - July 2015)'
+        description: 'Data Science Intern (May 2015 - July 2015)',
+        link: 'https://www.linkedin.com/company/tinyowl/?originalSubdomain=in',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
